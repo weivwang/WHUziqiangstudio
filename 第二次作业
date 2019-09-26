@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>JavaScript.com</title>
+<body background="https://www.javascript.com/content/pluralsight/en/jscom/jcr:content/main/generic_block/image-res.img.73cb9796-6f54-4231-9593-6e52d51ea299.jpg">
+<style>
+h4
+{   
+    text-align: center
+}
+h5
+{   
+    text-align: center
+
+}
+h6
+{
+    text-align: center
+}
+
+
+
+
+</style>
+    <h4>
+        <font size="3" color="white">READY TO TRY</font>
+
+    </h4>
+    <h5>
+        <font size="8" color="white">JavaScript?</font>
+    </h5>
+    <h6>
+        <font size="4" color="white">Begin learning here by typing you first name surrounded by quotation marks . and
+            <br>ending with a semicolon.For example, you could type the name "Jamie";and then hit</font>
+        
+        
+    </h6>
+
+
+
+
+
+</body>
